@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/stfy_token/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width:100%;">        
   </a>&nbsp;&nbsp;
-   <a href="https://www.tw.com/sponas2/" rel="nofollow">
+   <a href="https://twitter.com/Sponas2" rel="nofollow">
     <img src="https://camo.githubusercontent.com/8782839e5cf8005144a4c221dc8ba4c5b6ed80dce13b270d31470cd2a170ebb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"  style="max-width:100%;">        
   </a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/STFYtoken" rel="nofollow">
